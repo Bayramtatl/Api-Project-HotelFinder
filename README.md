@@ -1,6 +1,6 @@
 # HotelFinder
 
-Rest.Api Projesi
+Rest Api Projesi
 
 ## Proje İçeriği
 - Versiyon : .Net 6.0
